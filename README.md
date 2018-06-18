@@ -1,2 +1,4 @@
-# js-notes
-js学习笔记
+ng-book
+=======
+
+The ng-book recipe
